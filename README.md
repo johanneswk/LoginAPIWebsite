@@ -1,8 +1,9 @@
-# LoginTUIWebsiteAPI
+# LoginWebsiteAPI
 Welcome to my first Github Project! Here you can read more about this project
 
 ## Why did you make it?
 This was a school project where I combined a Java Servlet webpage with a Json API.
+We had to rebuild an existing website from the ground up. Due to copyright concerns all the images and videos of that certain website are removed. Now I use images that are in the public domain. And that's why they aren't so nice to look at. 
 
 ## What does it do?
 You need to enter a ticketnumber, flightnumber, email and a password. 
