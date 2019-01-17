@@ -1,0 +1,65 @@
+/* Geeft de achtergrond zijn tui afbeelding */
+body {
+    background-color: powderblue;
+    background: url("/images/background.jpg");
+}
+
+/* Geeft het lettertype h1 de blauwe kleur en gecentreerd */
+h1 {
+    color: blue;
+	text-align: center;
+}
+
+/* Geeft het lettertype zijn normale kleur en gecentreerd*/
+h2 {
+    text-align: center;
+}
+
+/* Laat het lettertype in 20 pixels groot zien, maakt het rood en centeerd het */
+h4 {
+	font-size: 20px;
+	color: red;
+	font: font-woff;
+	text-align: center;
+}
+
+/* Laat het lettertype gecentreerd weergeven*/
+p 	{
+	text-align: center;
+}
+
+/* Zorgt dat het filmpje in de juiste afmetingen en plaats getoond word */
+video {
+		text-align: center;
+		margin: 0 auto;
+		display: block;
+		width: 400px;
+	}
+/* Maak de navigatie bar lichtblauw */
+
+.topnav {
+    background-color: lightblue;
+    overflow: hidden;
+}
+
+/* Zorg voor de juiste opmaak van de navigatie bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Laat de kleur mee veranderen als je muis er op komt */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Centreerdt de tabel */
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
